@@ -1,6 +1,4 @@
-# README-plz
-
-Hey! :wave:
+## Hey! :wave:
 
 I'm currenly working with Gitlab. See my projects in:  [Gitlab - Eduardo Paulos](https://gitlab.com/edu_paulos)
 
