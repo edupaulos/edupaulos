@@ -13,7 +13,7 @@ I'm a **Frontend Developer**, who is looking for a new challenge!
 
 <p align="left">
   <img height="180em"  src= "https://github-readme-stats.vercel.app/api?username=Edix96&show_icons=true&theme=tokyonight">
-  <img height="180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Edix96&show_icons=true&theme=tokyonight">
+  <img height="180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Edix96&show_icons=true&theme=tokyonight&layout=compact">
 </p>
 
 <!---
