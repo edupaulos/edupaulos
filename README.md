@@ -9,9 +9,14 @@ Recent work:
 - I also worked for a smartlocker project that you can find here [here](https://gitlab.com/oz_wonderland/py-locker) .
 
 
+### GitHub Analytics
+
+<p align="left">
+  <img height="180em"  src= "https://github-readme-stats.vercel.app/api?username=Edix96&show_icons=true&theme=tokyonight">
+  <img height="180em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Edix96&show_icons=true&theme=tokyonight">
+</p>
 
 <!---
 Edix96/Edix96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Cancel changes
