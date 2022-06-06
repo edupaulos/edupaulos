@@ -1,4 +1,4 @@
-## Hey there, I'm Eduardo! <img src= "https://user-images.githubusercontent.com/26300784/170683899-22b62921-40db-4631-822b-8de922e6ae16.gif" width = 4%>
+## Hey there, I'm Eduardo! <img src= "https://user-images.githubusercontent.com/26300784/170683899-22b62921-40db-4631-822b-8de922e6ae16.gif" width = 5%>
 
 
 
