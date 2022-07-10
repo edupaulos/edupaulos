@@ -2,7 +2,7 @@
 
 
 
-I'm a **Frontend Developer**, who is looking for a new challenge!
+I'm a **Software Engineer**, who is looking for a new challenge!
 
 ### Recent work
 - I recently worked on a backend using Elixir lang. 🧪
