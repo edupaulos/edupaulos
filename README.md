@@ -2,11 +2,12 @@
 
 
 
-I'm a **Software Engineer**, who is looking for a new challenge!
+I'm a **Software Engineer**, passionate about Front-End, UI/UX and Design!
 
 ### Recent work
-- I recently worked on backend using Elixir lang. 🧪
+- Recently worked on backend using Elixir lang. 🧪
 - I also worked for a smartlocker project that you can find [here](https://gitlab.com/oz_wonderland/py-locker) .
+- Now, I'm in a Front-End intership using React ⚛
 
 
 ### GitHub Analytics
