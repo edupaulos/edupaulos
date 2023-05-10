@@ -5,9 +5,9 @@
 I'm a **Software Engineer**, passionate about Front-End, UI/UX and Design!
 
 ### Recent work
-- Currently, I'm working as Junior Front-End using React ⚛ .
+- Currently, I'm working as Junior Front-End using React ⚛ ;
 - I worked for a smartlocker project that you can find [here](https://gitlab.com/oz_wonderland/py-locker) ;
-- Also, I worked, for a short time, with Elixir 🧪 ;
+- Also, I worked, for a short time, with Elixir 🧪 .
 
 
 
