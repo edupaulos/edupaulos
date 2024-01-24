@@ -14,8 +14,8 @@ I'm a **Software Engineer**, passionate about Front-End, UI/UX and Design!
 ### GitHub Analytics
 
 <p align="left">
-  <img height="140em"  src= "https://github-readme-stats.vercel.app/api?username=Edix96&show_icons=true&theme=tokyonight">
-  <img height="140em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Edix96&show_icons=true&theme=tokyonight&layout=compact">
+  <img height="140em"  src= "https://github-readme-stats.vercel.app/api?username=edupaulos&show_icons=true&theme=tokyonight">
+  <img height="140em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=edupaulos&show_icons=true&theme=tokyonight&layout=compact">
 </p>
 
 <!---
